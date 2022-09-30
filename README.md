@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Cindy
-- 👀 I’m interested in Website Development
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m interested in Web Development
 
 <!---
 cxindy/cxindy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
