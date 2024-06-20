@@ -1,5 +1,7 @@
-- 👋 Hi, I’m Cindy
-- 👀 I’m interested in Web Development
+- 👋 Hi, I’m Cindy!
+- 👀 A DevOps Consultant who has a keen interest in Web Development.
+- 🐈 Cats Lover.
+- 🤭 Currently trying out everything tbh
 
 <!---
 cxindy/cxindy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
