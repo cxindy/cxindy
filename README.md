@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cindy!
 - 👀 A DevOps Consultant who has a keen interest in Web Development.
-- 🐈 Cats Lover.
+- 🐈 Cats Lover and thriller reader 
 - 🤭 Currently trying out everything tbh
 
 <!---
