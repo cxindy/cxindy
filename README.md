@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋</h1>
 <p align="center">My name is Cindy and welcome to my github profile</p>
 
-<img align="left" src="./images/cute-wave-small-fox.gif" width="350px"/>
+<img align="left" src="./images/cute-wave-small-fox.gif" width="300px"/>
 
 ```csharp
     About Me
@@ -17,6 +17,7 @@
     Occupation: DevOps Consultant
 ```
 
+<br>
 ## ☕ Let's connect!
 <p align="center">
     <a href="https://linkedin.com/in/cindyswinfield"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="cindyswinfield" /></a>&nbsp;
