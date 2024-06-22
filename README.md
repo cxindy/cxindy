@@ -35,6 +35,7 @@
         <img align="center" src="./images/icons/icons8-heart-48.png" alt="Personal Site" />
     </a>
 </p>
+
 ## ⚙️ Languages & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
