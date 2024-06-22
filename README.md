@@ -13,7 +13,7 @@
     Gender: Female
     Hobbies: ["Reading"], ["Gaming"], ["Coding"], ["Cooking"]
     Languages: ["English"], ["Thai"]
-    Learning: ["TypeScript"], ["Node.JS"], ["Express"], ["PostgreSQL"], ["Python"], ["A lot lol"]
+    Learning: ["TypeScript"], ["Node.JS"], ["Express"], ["Python"], ["A lot lol"]
     Occupation: DevOps Consultant
 ```
 
