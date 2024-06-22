@@ -19,19 +19,19 @@
 
 ## ☕ Let's connect!
 <p align="center">
-    <a href="https://linkedin.com/in/cindyswinfield" target="blank">
+    <a href="https://linkedin.com/in/cindyswinfield">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="cindyswinfield" />
-    </a>
-    <a href="https://instagram.com/czindy" target="blank">
-        <img align="center" src="    https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="czindy" />
-    </a>
-    <a href="https://www.facebook.com/cindyswinfield/" target="blank">
+    </a>&nbsp;
+    <a href="https://instagram.com/czindy">
+        <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="czindy" />
+    </a>&nbsp;
+    <a href="https://www.facebook.com/cindyswinfield/">
         <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Cindy Swinfield" />
-    </a>
-    <a href="https://www.goodreads.com/user/show/174898599-cindy" target="blank">
+    </a>&nbsp;
+    <a href="https://www.goodreads.com/user/show/174898599-cindy">
         <img align="center" src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" alt="Cindy" />
-    </a>
-    <a href="https://www.cindyswinfield.com/" target="blank">
+    </a>&nbsp;
+    <a href="https://www.cindyswinfield.com/">
         <img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Site" />
     </a>
 </p>
