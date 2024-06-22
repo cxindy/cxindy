@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋</h1>
 <p align="center">My name is Cindy and welcome to my github profile</p>
 
-<img align="left" src="./images/cute-wave-small-fox.gif" width="200px"/>
+<img align="left" src="./images/cute-wave-small-fox.gif" width="220px"/>
 
 ```csharp
     About Me
@@ -11,9 +11,9 @@
     Pronounce: She/Her
     Age: 26
     Gender: Female
-    Hobbies: ["Reading"], ["Cozy Gaming"], ["Coding"], ["Cooking"]
-    Languages: ["English"], ["Thai"]
-    Learning: ["TypeScript"], ["Node.JS"], ["Express"], ["Python"], ["A lot lol"]
+    Hobbies: Reading, Cozy Gaming, Coding, Cooking
+    Learning: TypeScript, Node.JS, Express, Python and a lot more lol
+    Languages: English, Thai
     Occupation: DevOps Consultant
 ```
 
