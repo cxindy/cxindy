@@ -1,23 +1,26 @@
-<h1 align="center">Hi there!</h1>
-<p align="center">Welcome to my github profile</p>
+<p align="center" ><img src="./images/cute-wave-small-fox.gif" width="100px"/></p>
+<h1 align="center">Hello there!</h1>
 
-<img align="left" src="./images/cute-wave-small-fox.gif" width="300px"/>
+###
 
-```csharp
-    About Me
-    ------------------------------------------
-    Name: Cindy Swinfield
-    Location: Sydney, Australia
-    Pronounce: She/Her
-    Age: 26
-    Gender: Female
-    Hobbies: Reading, Cozy Gaming, Coding, Cooking
-    Learning: AWS, Prometheus, Kubernetes, and a lot more lol
-    Languages: English, Thai
-    Occupation: DevOps Consultant
-    Site: www.cindyswinfield.com
-```
-&nbsp;
+<p align="center">My name is Cindy, a DevOps Consultant from Sydney, Australia</p>
+
+###
+
+## 👩🏻‍💻 About me
+
+###
+
+<p align="left">
+✨ Creating CI/CD pipelines since 2021 <br>
+📚 Learning: AWS, Prometheus, Kubernetes, and a lot more lol <br>
+🌱 Hobbies: Reading, Cozy Gaming, Coding, Cooking <br>
+🎲 Fun fact: Can cook 2-mins instant noodles in 1.5 mins <br>
+💕 Visite me: www.cindyswinfield.com
+</p>
+
+###
+
 ## ☕ Let's connect!
 <p align="center">
     <a href="https://linkedin.com/in/cindyswinfield"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="cindyswinfield" /></a>&nbsp;
