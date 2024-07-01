@@ -12,7 +12,7 @@
     Age: 26
     Gender: Female
     Hobbies: Reading, Cozy Gaming, Coding, Cooking
-    Learning: TypeScript, Node.JS, Express, Python and a lot more lol
+    Learning: AWS, Prometheus, Kubernetes, and a lot more lol
     Languages: English, Thai
     Occupation: DevOps Consultant
     Site: www.cindyswinfield.com
