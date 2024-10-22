@@ -16,7 +16,7 @@
 📚 Learning: AWS, Prometheus, Kubernetes, and a lot more lol <br>
 🌱 Hobbies: Reading, Cozy Gaming, Coding, Cooking <br>
 🎲 Fun fact: Can cook 2-mins instant noodles in 1.5 mins <br>
-💕 Visite me: www.cindyswinfield.com
+💕 Site: www.cindyswinfield.com
 </p>
 
 ###
